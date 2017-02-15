@@ -1,2 +1,2 @@
 # LearnMPAndroidChartDemo
-学习MPAndroidChart这个图表库所建的项目
+学习MPAndroidChart这个图表库所建的项目，在学习的过程中也对一些属性和方法做了相应的注解！
